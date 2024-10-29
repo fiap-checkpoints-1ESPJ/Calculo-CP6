@@ -41,5 +41,4 @@ plt.title('Custo, Receita e Lucro em Função da Produção com Variações de I
 plt.legend()
 plt.grid(True)
 plt.show()
-
 print(f'O ponto ótimo de produção base é x = {ponto_otimo:.2f}, com um lucro máximo de P(x) = {lucro_maximo:.2f}')
